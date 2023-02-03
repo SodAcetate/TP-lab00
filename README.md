@@ -29,6 +29,14 @@ Links — Ссылки и подписи к ним
 
 Раздел Теория написан мной. Всё, что дальше — исходное задание лабы с моими комментариями.
 
+## Готовые методы к лабам
+
+- [TP-lab00](https://github.com/SodAcetate/TP-lab00)
+- [TP-lab01](https://github.com/SodAcetate/TP-lab01)
+- [TP-lab02](https://github.com/SodAcetate/TP-lab02)
+- [TP-lab03](https://github.com/SodAcetate/TP-lab03)
+
+
 ## Теория
 
 **Консольная команда** начинается с названия утилиты. Как правило, после него следуют флаги, команды и аргументы.
