@@ -35,6 +35,7 @@ Links — Ссылки и подписи к ним
 - [TP-lab01](https://github.com/SodAcetate/TP-lab01)
 - [TP-lab02](https://github.com/SodAcetate/TP-lab02)
 - [TP-lab03](https://github.com/SodAcetate/TP-lab03)
+- [TP-lab04](https://github.com/SodAcetate/TP-lab04)
 
 
 ## Теория
